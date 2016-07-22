@@ -1,0 +1,18 @@
+{
+  "name": "project-template",
+  "authors": [
+    "jaredjohnson59 <jaredjohnson59@gmail.com>"
+  ],
+  "description": "Template for angular js project",
+  "main": "",
+  "license": "MIT",
+  "homepage": "www.brightsparkprogramming.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/components/",
+    "test",
+    "tests"
+  ]
+}

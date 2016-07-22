@@ -1,0 +1,11 @@
+{
+  "name": "project-template",
+  "version": "1.0.0",
+  "description": "Template for Angular Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jared Johnson <jaredjohnson59@gmail.com> (http://brightsparkprogramming.com)",
+  "license": "ISC"
+}
